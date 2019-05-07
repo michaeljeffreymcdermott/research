@@ -1,3 +1,6 @@
+# Publications
+Michael J McDermott https://scholar.google.com/citations?user=OAoZB-YAAAAJ&hl=en
+
 # Current Research Projects
 * Machine learning for classification, knowledge discovery, and recommendation on non-smooth datasets both supervised and unsupervised
 * Neural Network for ontology creation and modification
@@ -14,3 +17,8 @@
 * Peer to Peer DHT Networking in Java/Android}
 * Development of Autonomous UAV System in Java
 * Development of Emergent Ecology Simulator in Java
+
+# Current Obsessions
+* Machine learning for spatial co-location
+* Implicit learning networks for data segementation
+* Reconfigurable Spatial and Spatio-temporal semantic machine learning
